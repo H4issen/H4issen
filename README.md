@@ -4,6 +4,8 @@
 <h2> Habilidades Actuales: </h2>
 </div>
 
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+
 - <h4> Redes como desarrollador: </h4>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jean-patrick-espinoza-andrade-8a875620b)
 [![Portafolio](https://img.shields.io/badge/🌐_Portafolio_web-%23555555.svg?style=for-the-badge)](https://jpcodee.netlify.app/)
@@ -15,9 +17,8 @@
 - <h4> Herramientas de Diseño y Desarrollo: </h4>
 [![My Skills](https://skillicons.dev/icons?i=anaconda,wordpress,vscode,vite,pycharm,postman,ps,npm,github,git,figma,docker,linux,arch,debian&perline=8)](https://skillicons.dev)
 
-<div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
-</div>
 
+---
+Credit: [zillastar](https://github.com/zillastar)
 
 
