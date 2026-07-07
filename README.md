@@ -17,8 +17,7 @@
 - <h4> Herramientas de Diseño y Desarrollo: </h4>
 [![My Skills](https://skillicons.dev/icons?i=anaconda,wordpress,vscode,vite,pycharm,postman,ps,npm,github,git,figma,docker,linux,arch,debian&perline=8)](https://skillicons.dev)
 
-
 ---
-Credit: [zillastar](https://github.com/zillastar)
+Creditos a: [zillastar](https://github.com/zillastar)
 
 
