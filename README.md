@@ -1,9 +1,10 @@
-<h1 align="center">Hello, H4issen/JPCode was here 🍀</h1>
-
 <div align="center">
-  <!-- Aquí llamamos a la imagen flotante -->
-  
-<div>
+
+  <h1 align="center">Hello, H4issen/JPCode was here 🍀</h1>
+ <img src="logo.gif" width="200" alt="JPCode Logo Animado" />
+
+</div>
+
 <!--
 **H4issen/H4issen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
