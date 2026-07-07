@@ -11,11 +11,11 @@
 [![Portafolio](https://img.shields.io/badge/🌐_Portafolio_web-%23555555.svg?style=for-the-badge)](https://jpcodee.netlify.app/)
 
 - <h4> Lenguajes, Frameworks, y BDs: </h4>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,py,php,angular,express,fastapi,nextjs,flask,flutter,laravel,nodejs,react,sass,bootstrap,tailwind,vue,postgres,mongodb,mysql,sqlite&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,py,php,angular,express,fastapi,nextjs,flask,flutter,laravel,nodejs,react,sass,bootstrap,tailwind,vue,postgres,mongodb,mysql,sqlite&perline=7)](https://skillicons.dev)
 
 
 - <h4> Herramientas de Diseño y Desarrollo: </h4>
-[![My Skills](https://skillicons.dev/icons?i=anaconda,wordpress,vscode,vite,pycharm,postman,ps,npm,github,git,figma,docker,linux,arch,debian&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,wordpress,vscode,vite,pycharm,postman,ps,npm,github,git,figma,docker,linux,arch,debian&perline=7)](https://skillicons.dev)
 
 ---
 Creditos a: [zillastar](https://github.com/zillastar)
