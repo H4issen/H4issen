@@ -17,7 +17,7 @@
 
 
 - <h4> Herramientas de Diseño y Desarrollo: </h4>
-[![My Skills](https://skillicons.dev/icons?i=anaconda,wordpress,vscode,vite,pycharm,postman,ps,npm,github,git,figma,docker,linux,arch,debian&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,wordpress,vscode,vite,pycharm,postman,ps,npm,github,git,figma,netlify,supabaase,docker,linux,arch,debian&perline=7)](https://skillicons.dev)
 
 ---
 Creditos a: [zillastar] & <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
