@@ -18,6 +18,6 @@
 [![My Skills](https://skillicons.dev/icons?i=anaconda,wordpress,vscode,vite,pycharm,postman,ps,npm,github,git,figma,docker,linux,arch,debian&perline=7)](https://skillicons.dev)
 
 ---
-Creditos a: [zillastar] & Image by 前髪)
+Creditos a: [zillastar] & <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>)
 
 
