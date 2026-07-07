@@ -7,8 +7,10 @@
 </div>
 
 - <h4> Lenguajes, Frameworks, y BDs: </h4>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,py,php,angular,express,fastapi,nextjs,flask,flutter,laravel,nodejs,react,sass,tailwind,vue&perline=8)](https://skillicons.dev)
 
 - <h4> Herramientas de Diseño y Desarrollo: </h4>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 - <h4> Redes como desarrollador: </h4>
 <!--
