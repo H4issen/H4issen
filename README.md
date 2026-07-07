@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jean-patrick-espinoza-andrade-8a875620b)
 [![Portafolio](https://img.shields.io/badge/🌐_Portafolio_web-%23555555.svg?style=for-the-badge)](https://jpcodee.netlify.app/)
 
-- <h4> Lenguajes, Frameworks, y BDs: </h4>
+- <h4> Lenguajes, Frameworks y BDs: </h4>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,py,php,angular,express,fastapi,nextjs,flask,flutter,laravel,nodejs,react,sass,bootstrap,tailwind,vue,postgres,mongodb,mysql,sqlite&perline=7)](https://skillicons.dev)
 
 
