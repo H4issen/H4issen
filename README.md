@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Aquí llamamos a la imagen flotante -->
-  <img src=jp logo(1).png" alt="JPCode Logo" width="180" />
+  <img src=jp-logo(1).png" alt="JPCode Logo" width="180" />
 <div>
 <!--
 **H4issen/H4issen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
