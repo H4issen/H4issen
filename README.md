@@ -1,8 +1,6 @@
 <div align="center">
-
-  <h1 align="center">>> H4issen/JPCode was here 🍀<<</h1>
+  <h1 align="center">>>🍀 H4issen/JPCode was here 🍀<<</h1>
  <img src="logo.gif" width="200" alt="JPCode Logo Animado" />
-
 <h2> Habilidades Actuales: </h2>
 </div>
 
@@ -17,7 +15,9 @@
 - <h4> Herramientas de Diseño y Desarrollo: </h4>
 [![My Skills](https://skillicons.dev/icons?i=anaconda,wordpress,vscode,vite,pycharm,postman,ps,npm,github,git,figma,docker,linux,arch,debian&perline=8)](https://skillicons.dev)
 
-
+<div align="right">
+<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+</div>
 
 
 
