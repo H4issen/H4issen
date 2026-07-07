@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">>>🍀 H4issen/JPCode was here 🍀<<</h1>
+  <h1 align="center">🍀 H4issen/JPCode was here 🍀</h1>
   <a href="https://jpcodee.netlify.app/" target="_blank">
     <img src="logo.gif" width="200" alt="JPCode Logo Animado" />
   </a>
@@ -7,7 +7,6 @@
 </div>
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
-<br>
 
 - <h4> Redes como desarrollador: </h4>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-patrick-espinoza-andrade-8a875620b)
