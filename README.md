@@ -7,6 +7,7 @@
 </div>
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<br>
 
 - <h4> Redes como desarrollador: </h4>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-patrick-espinoza-andrade-8a875620b)
