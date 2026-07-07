@@ -6,6 +6,7 @@
 <h2> Habilidades Actuales: </h2>
 </div>
 
+<br>
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
 - <h4> Redes como desarrollador: </h4>
